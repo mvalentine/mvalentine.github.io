@@ -1,0 +1,22 @@
+#msbnav {
+    background-color: #06589d !important;
+
+}
+
+#msbnav .navbar-brand a {
+    color: white !important;
+}
+
+a, a:hover {
+    color: #06589d !important;
+
+
+}
+
+.label-msb {
+    background-color: #06589d !important;
+}
+
+#msbnav .navbar-brand {
+    color: white !important;
+}
