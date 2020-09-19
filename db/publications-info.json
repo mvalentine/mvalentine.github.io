@@ -1,0 +1,165 @@
+{
+
+    "publications": [
+      { 
+        "publication-img-link": "img/algorithms.jpg",
+        "pdf-link":"pdfs/algorithms-at-work.pdf", 
+        "title":"Algorithms at Work: The New Frontier of Organizational Control", 
+        "authors": "Kate Kellogg, Melissa. A Valentine, Angele Christin",
+        "below-authors": "Academy of Management Annals",
+        "tag": null,
+        "year": null,
+        "links": null
+    
+    },
+    { 
+        "publication-img-link": "img/hierarchy-thumbnail.jpg",
+        "pdf-link":"pdfs/fluid%20teams%20and%20knowledge%20retrieval.pdf", 
+        "title":"Renegotiating Spheres of Obligation: The Role of Hierarchy in Organizational Learning", 
+        "authors": "Melissa A. Valentine",
+        "below-authors": "Administrative Science Quarterly",
+        "tag": null,
+        "year": null,
+        "links": null
+    
+    },
+    { 
+        "publication-img-link": "https://hci.stanford.edu/publications/2019/fracture/fracture.png",
+        "pdf-link":"https://hci.stanford.edu/publications/2019/fracture/fracture-cscw2019.pdf", 
+        "title":"Did It Have To End This Way? Understanding the Consistency of Team Fracture", 
+        "authors": "Mark Whiting, Allie Blaising, Chloe Barreau, Laura Fiuza, Nik Marda, Melissa Valentine, and Michael Bernstein",
+        "below-authors": "CSCW 2019",
+        "tag": null,
+        "year": null,
+        "links": null
+    
+    },
+    { 
+        "publication-img-link": "https://hci.stanford.edu/publications/2018/dreamteam/dreamteam_hci_icon.jpg",
+        "pdf-link":"https://hci.stanford.edu/publications/2018/dreamteam/zhou_sharon_dreamteam.pdf", 
+        "title":"In Search of the Dream Team: Temporally Constrained Multi-Armed Bandits for Identifying Effective Team Structures", 
+        "authors": "Sharon Zhou, Melissa Valentine, Michael S. Bernstein",
+        "below-authors": "CHI 2018",
+        "tag": "Honorable Mention",
+        "year": null,
+        "links": [
+            {"slides":"https://hci.stanford.edu/publications/2018/dreamteam/dreamteam_chi.pdf"}
+        ]
+    
+    },
+    { 
+        "publication-img-link": "img/fluid-teams.jpg",
+        "pdf-link":"pdfs/fluid%20teams%20and%20knowledge%20retrieval.pdf", 
+        "title":"Fluid Teams and Knowledge Retrieval: Scaling Service Operations", 
+        "authors": "Melissa A. Valentine, Tom Fangyun Tan, Bradley R. Staats, Amy C. Edmondson",
+        "below-authors": "Manufacturing & Service Operations Management",
+        "tag": null,
+        "year": null,
+        "links": null
+    
+    },
+    { 
+        "publication-img-link": "https://hci.stanford.edu/publications/2017/flashorgs/thumbnail.png",
+        "pdf-link":"https://hci.stanford.edu/publications/2017/flashorgs/flash-orgs-chi-2017.pdf", 
+        "title":"Flash Organizations: Crowdsourcing Complex Work by Structuring Crowds As Organizations", 
+        "authors": "Melissa Valentine, Daniela Retelny, Alexandra To, Negar Rahmati, Tulsee Doshi, Michael Kim, Maxine Fonua, and Michael Bernstein",
+        "below-authors": "CHI 2017",
+        "tag": "Best Paper",
+        "year": null,
+        "links": [
+            {"slides":"https://hci.stanford.edu/publications/2018/dreamteam/dreamteam_chi.pdf"},
+            {"additional materials":"https://hci.stanford.edu/publications/2018/dreamteam/dreamteam_chi.pdf"},
+        
+        ]
+    
+    },
+    { 
+        "publication-img-link": "img/unfair.jpg",
+        "pdf-link":"pdfs/when%20equity%20seems%20unfair.pdf", 
+        "title":"When Equity Seems Unfair: The Role of Justice Enforceability in Temporary Team Coordination", 
+        "authors": "Melissa A. Valentine",
+        "below-authors": "Academy of Management Journal",
+        "tag": null,
+        "year": null,
+        "links": null
+    
+    },
+    { 
+        "publication-img-link": "https://hci.stanford.edu/publications/2018/workflows/workflows.png",
+        "pdf-link":"https://hci.stanford.edu/publications/2018/workflows/workflows-cscw2017.pdf", 
+        "title":"No Workflow Can Ever Be Enough: How Crowdsourcing Workflows Constrain Complex Work", 
+        "authors": "Daniela Retelny, Melissa Valentine, Michael Bernsteinn",
+        "below-authors": "CSCW 2018",
+        "tag": null,
+        "year": null,
+        "links": [
+            {"slides":"https://hci.stanford.edu/publications/2018/workflows/cscw2018-workflows-slides.pdf"}
+        ]
+    
+    },
+    { 
+        "publication-img-link": "https://hci.stanford.edu/publications/2017/huddler/huddler.png",
+        "pdf-link":"https://hci.stanford.edu/publications/2017/huddler/Huddler_CSCW2017.pdf", 
+        "title":"Huddler: Convening Stable and Familiar Crowd Teams Despite Unpredictable Availability", 
+        "authors": "Niloufar Salehi, Andrew McCabe, Melissa Valentine, Michael Bernstein",
+        "below-authors": "CSCW 2017",
+        "tag": null,
+        "year": null,
+        "links": [
+            {"slides":"http://hci.stanford.edu/publications/2017/huddler/huddler_cscw.pptx"}
+        ]
+    
+    },
+
+    { 
+        "publication-img-link": "https://hci.stanford.edu/publications/2014/flashteams/flashteams.jpg",
+        "pdf-link":"https://hci.stanford.edu/publications/2014/flashteams/flashteams-uist2014.pdf", 
+        "title":"Expert Crowdsourcing with Flash Teams", 
+        "authors": "Daniela Retelny, Sebastien Robaszkiewicz, Alexandra To, Walter Lasecki, Jay Patel, Negar Rahmati, Tulsee Doshi, Melissa Valentine, Michael Bernstein",
+        "below-authors": "UIST 2014",
+        "tag": "best paper award",
+        "year": null,
+        "links": [
+            {"video":"https://www.youtube.com/watch?v=IVgTZEpHOzc"},
+            {"slides":"https://speakerdeck.com/dretelny/expert-crowdsourcing-with-flash-teams"},
+            {"project site":"http://flashteams.stanford.edu/"}
+         
+        ]
+    
+    },
+
+    { 
+        "publication-img-link": "img/scaffolds.jpg",
+        "pdf-link":"pdfs/TeamScaffolds_OrgSci.pdf", 
+        "title":"Team Scaffolds: How Meso-level Structures Enable Role-based Coordination in Temporary Groups", 
+        "authors": "Melissa A. Valentine, Amy C. Edmondson",
+        "below-authors": "Organization Science",
+        "tag": "AOM OB paper award",
+        "year": null,
+        "links": null
+    
+    },
+
+    { 
+        "publication-img-link": "img/scaffolds.jpg",
+        "pdf-link":"pdfs/TeamScaffolds_OrgSci.pdf", 
+        "title":"Measuring Teamwork in Health Care Settings: A Review of Survey Instruments", 
+        "authors": "Melissa A. Valentine, Ingrid M. Nembhard, and Amy C. Edmondson, PhD",
+        "below-authors": "Medical Care",
+        "tag": null,
+        "year": null,
+        "links": null
+    
+    }
+
+
+    
+
+
+
+
+
+
+        
+    ]
+   }
